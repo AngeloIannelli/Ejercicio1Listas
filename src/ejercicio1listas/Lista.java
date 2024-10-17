@@ -216,6 +216,11 @@ public class Lista {
         }
         listafrec.printList();
         return listafrec;
+    
     }
     
+    //System.out.println("El valor encontrado es a");  
+    //probando;  
+    
+    //develop
 }
